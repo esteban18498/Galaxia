@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="NavesCard" load_steps=4 format=3 uid="uid://dvhe45vqbr32o"]
+
+[ext_resource type="Script" path="res://Scripts/NavesCard.gd" id="1_dvuea"]
+[ext_resource type="Texture2D" uid="uid://djstvks8d5ix" path="res://icon.png" id="1_xdoxe"]
+[ext_resource type="Texture2D" uid="uid://dskubi5y1fbe" path="res://assets/ejemplo_2.png" id="2_r4n07"]
+
+[resource]
+script = ExtResource("1_dvuea")
+heath = 1
+type = 0
+artwork = ExtResource("1_xdoxe")
+backgroud_texture = ExtResource("2_r4n07")
+name = "Anon"
+description = ".-.-."
+clase = "omega"

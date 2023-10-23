@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="NavesCard" load_steps=4 format=3 uid="uid://bde22bedof40e"]
+
+[ext_resource type="Texture2D" uid="uid://c14jk7xhj8t1m" path="res://assets/OIG.jpg" id="1_cxmoy"]
+[ext_resource type="Texture2D" uid="uid://bx0mhct7jxegl" path="res://assets/ejemplo_1.png" id="2_sesbb"]
+[ext_resource type="Script" path="res://Scripts/NavesCard.gd" id="3_2th76"]
+
+[resource]
+script = ExtResource("3_2th76")
+heath = 10
+type = 0
+artwork = ExtResource("1_cxmoy")
+backgroud_texture = ExtResource("2_sesbb")
+name = "Anon"
+description = "esto es una nave"
+clase = "omegas"

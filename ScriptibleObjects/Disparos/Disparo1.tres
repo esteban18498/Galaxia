@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="DisparoCard" load_steps=4 format=3 uid="uid://bycmtu2wwuwhi"]
+
+[ext_resource type="Texture2D" uid="uid://djstvks8d5ix" path="res://icon.png" id="1_1t2aw"]
+[ext_resource type="Script" path="res://DisparosCard.gd" id="1_bxdp2"]
+[ext_resource type="Texture2D" uid="uid://bx0mhct7jxegl" path="res://assets/ejemplo_1.png" id="2_ar4ai"]
+
+[resource]
+script = ExtResource("1_bxdp2")
+damage = 1
+artwork = ExtResource("1_1t2aw")
+backgroud_texture = ExtResource("2_ar4ai")
+name = "Anon"
+description = ".-.-."
+clase = "omega"
